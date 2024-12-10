@@ -1,5 +1,5 @@
 ---
 title: Legendary Lamp's Guild
-date: 12-10-2024
+date: 2024-12-10
 ---
 
